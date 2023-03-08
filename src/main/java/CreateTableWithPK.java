@@ -56,7 +56,7 @@ public class CreateTableWithPK {
          * Assignment: create a table in problem1.sql called "song" that has 3 columns listed above
          *
          * NOTE: The "id" column is what we are going to define as the primary key.
-         */
+         */                                                                     
         String sql = FileUtil.parseSQLFile("problem1.sql");
 
         try {
